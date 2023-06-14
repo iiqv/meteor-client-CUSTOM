@@ -26,9 +26,9 @@ import java.util.List;
 import static meteordevelopment.meteorclient.MeteorClient.mc;
 
 public class TitleScreenCredits {
-    private static final int WHITE = Color.fromRGBA(255, 255, 255, 255);
+    private static final int WHITE = Color.fromRGBA(235, 0, 0, 255);
     private static final int GRAY = Color.fromRGBA(175, 175, 175, 255);
-    private static final int RED = Color.fromRGBA(225, 25, 25, 255);
+    private static final int RED = Color.fromRGBA(253, 37, 149, 71);
 
     private static final List<Credit> credits = new ArrayList<>();
 
