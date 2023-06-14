@@ -38,7 +38,7 @@
   "accessWidener": "meteor-client.accesswidener",
   "custom": {
     "meteor-client:devbuild": "${devbuild}",
-    "meteor-client:color": "145,61,226",
+    "meteor-client:color": "255,135,243",
     "meteor-client:commit": "${commit}",
     "modmenu": {
       "links": {
