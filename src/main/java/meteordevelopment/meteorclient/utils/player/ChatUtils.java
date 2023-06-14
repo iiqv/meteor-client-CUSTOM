@@ -31,9 +31,9 @@ public class ChatUtils {
     @PostInit
     public static void init() {
         PREFIX = Text.literal("")
-            .setStyle(Style.EMPTY.withFormatting(Formatting.GRAY))
+            .setStyle(Style.EMPTY.withFormatting(Formatting.LIGHT_PURPLE))
             .append("[")
-            .append(Text.literal("Meteor").setStyle(Style.EMPTY.withColor(TextColor.fromRgb(MeteorClient.ADDON.color.getPacked()))))
+            .append(Text.literal("Aesthetic").setStyle(Style.EMPTY.withColor(TextColor.fromRgb(MeteorClient.ADDON.color.getPacked()))))
             .append("] ");
     }
 
